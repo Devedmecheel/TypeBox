@@ -4,9 +4,9 @@
   "isTrialActive": true,
   "downloadUrl": "https://yourwebsite.com/download",
   "message": {
-    "show": false,
-    "title": "",
-    "body": ""
+    "show": true,
+    "title": "hi",
+    "body": "اهلا بيك ياحج"
   }
 }
  
