@@ -4,9 +4,9 @@
   "isTrialActive": true,
   "downloadUrl": "https://devedmecheel.github.io/TypeBox/",
   "message": {
-    "show": false,
-    "title": "",
-    "body": ""
+    "show": true,
+    "title": "123",
+    "body": "321"
   }
 }
  
