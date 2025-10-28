@@ -2,11 +2,11 @@
   "latestVersion": "1.0.0",
   "isUpdateRequired": true,
   "isTrialActive": true,
-  "downloadUrl": "https://yourwebsite.com/download",
+  "downloadUrl": "https://devedmecheel.github.io/TypeBox/",
   "message": {
-    "show": true,
-    "title": "hi",
-    "body": "اهلا بيك ياحج"
+    "show": false,
+    "title": "",
+    "body": ""
   }
 }
  
