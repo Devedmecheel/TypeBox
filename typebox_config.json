@@ -1,0 +1,11 @@
+{
+  "latestVersion": "0.1",
+  "isUpdateRequired": true,
+  "isTrialActive": true,
+  "downloadUrl": "https://yourwebsite.com/download",
+  "message": {
+    "show": false,
+    "title": "",
+    "body": ""
+  }
+}
